@@ -1,4 +1,4 @@
-module week06
+module week08
 
 go 1.17
 
